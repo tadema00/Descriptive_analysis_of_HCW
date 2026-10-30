@@ -1,0 +1,8 @@
+indicator,years,z,p,direction,passes Bonferroni guide
+CFR (deaths / confirmed),2018-2025,-4.87,1.1271886941386922e-06,falling,True
+Confirmed / suspected,2018-2025,-11.21,3.806082301591308e-29,falling,True
+"Reported management ratio, managed / (confirmed + probable)",2020-2025,-10.07,7.271624785247386e-24,falling,True
+Follow-up completed / listed,2018-2025,7.67,1.6990436805162636e-14,rising,True
+Lost to follow-up / listed,2018-2025,3.89,0.00010011451334669967,rising,True
+Symptomatic / listed,2018-2025,1.01,0.31289212308502445,no trend,False
+Positive / listed,2018-2025,3.64,0.0002705176717135584,rising,True
